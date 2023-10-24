@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spreadsheet-discord-bot-398904",
+  "private_key_id": "c53b52780ec89c4a0abcbbe7a52fe11f3cb8caa9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQ/zMpeWDmRx8V\n7+odsloQu0xpmdWYRExXdxUYq+qKvjlpsavW3DSbgbZ4q499vWcNrq6mYxXq5tMc\nRkiPFLgakV5eO8B+dhx7wUQZ3Om7sSFT0ieqYb02sCwrSluNOMqiQ/03K0GOKOQ2\n1LuzOLZ09sq3LwSxPRMsaPBBde9IZn78cbnGQXwAKGFHjUmgLztTSITSmxqt72Zi\nUGqOHbgbRZM/A07GzQY1tS2n+xmBC+SoKxjp2NE7cmj40/r9zC1rB49teH2xRB19\nS6UWJFNc44Q91/uD0xhCV5CUXOcxzmsMATfeByEolQrZCAHUfsB7mmfWOJIRU+kH\nGxAQftw7AgMBAAECggEAN5WH7+HeSaBkvhresyM6HPUTb4qAakzP2PtM2xDuAhRx\nhJDCWRSb0TgAZbuLIC/9doAc5xe3PpBBWWW/6n3iMP60kG9n1Lpo/Oj7yb0dVNPZ\nP0fHUONJxX+5X5IZI0gVbG6Uq9WPS9XITGTrvtC4hgcVBv80SkcqEEegjmhlSWWt\n1dY1MiFKhrmrs5tRnKIWukqr6vHRRCU73VPtpAYBf24Td3nFAfsBa0kKqpUQQswP\nNnrl7CmlsQyKMzJFQ4pgh0JptY0nIANa+0k/Mhw5BCcAkoQ5JHuLb09Fqgv0+4h6\nPAyyGFOQJiD0PHX3d8wppGPUsfcST/RGQoKGxo/tAQKBgQD3HgDOJhv/zRfaAcze\nIXqUz3nxtap7SXmR2kNbOEvIRCdU6PyWi1TL+5R7nITOBn5NdtctJmn3oWf06kXI\njrF40Krul+5Id4H/MdRAFUFe+UyHlItItp8eCnzKnFlqh6JqkPdMtNZpFWJENZ7Y\nJBpII2IEuesNCIUB4AHurcEswQKBgQDYgmjizudZIDuG0CZkCNRiazqrlnd6f5hY\nYs6YXl+PHi6A/mIvaK1Q9XFq7y2jk0gmF6caoTfGUl0B0p/QpgpItxsURunP+8VO\nOYtkP8lDwPi0q9BrWiHpyQOAa26ha36MS9HtrA8yEokw1hQ95vnZL0ed3OLqPo4g\n81QYhye7+wKBgQC63qZvPeRYeSh7RHc+1wRSed7WSLFlz7ct82aSGa09AUTY8eLo\nmO6D3nh3TXIkNkbWn3KyguUJTLZHP82Lj1RnbyyDhsK7bBwS9gRyfWBUyKL1t//n\n+amz1uxtbvQzGeRZP8yy5eFpz7DiscWv3wU83fzmZA16aqHiPBpZ+m0lQQKBgQCu\nZe2CtNMZsaMBZu1lqs8ZL/KkgKFhJSJcH8r2ZR5oNBGVilMgiRsCmZJwZpTGrD5z\noJ3UD4TT1UhhzX06HmUuSYAghzaTd+RorGWhrNe8Ida0AanyrzmeDXMqoF8O232m\nGPTSk8Pxu4iSs/6+Fi2vSixP9rs5oIXv+NEGqOfSvQKBgQCf0VhlGIQJO89N0HWg\neI88HYx+Cnt8XYkG4pCo86nF6m2uPAyK+KE/gWszs4BLqwnfArhVZc/FQU0urOCb\nNNecpkQCQvJzHJIZymMvuywu7uybUzrdZ1L7kEF+Ge/qkUb97r+NrYiJVXRR6wq7\n5aQqaJuZe9O2RMGT/FGnJDzm1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheetbot@spreadsheet-discord-bot-398904.iam.gserviceaccount.com",
+  "client_id": "113448068964855451101",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheetbot%40spreadsheet-discord-bot-398904.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

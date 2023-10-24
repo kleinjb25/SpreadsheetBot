@@ -1,0 +1,17 @@
+{
+    "name": "spreadsheet-reader",
+    "version": "1.0.0",
+    "description": "A bot that reads a spreadsheet and gives roles to appropriate users.",
+    "main": "bot.js",
+    "author": "Justin Klein",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "dotenv": "^16.3.1",
+        "google-auth-library": "^9.0.0",
+        "googleapis": "^126.0.1",
+        "winston": "^3.11.0"
+    },
+    "scripts": {
+        "start": "node bot.js"
+    }
+}
